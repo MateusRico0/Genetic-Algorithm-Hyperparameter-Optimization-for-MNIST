@@ -120,4 +120,4 @@ python3.11 genetic_network.py standard
 
 ## Acknowledgements
 
-Special thanks to Daniel Gardino. He first helped get the experiment running on the cluster. Then, arriving early the next day, he noticed a performance bottleneck and optimized the code with multiprocessing.
+Special thanks to Daniel Gardin. He first helped get the experiment running on the cluster. Then, arriving early the next day, he noticed a performance bottleneck and optimized the code with multiprocessing.
